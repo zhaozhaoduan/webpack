@@ -1,0 +1,21 @@
+h1{
+    font-weight: normal;
+    color: #393;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 200px;
+}
+body div{
+    width: 500px;
+    height: 400px;
+    background: url("../img/2.jpg") no-repeat;
+    background-size: contain;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
